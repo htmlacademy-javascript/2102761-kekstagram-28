@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Анастасия  Орлова](https://up.htmlacademy.ru/javascript/28/user/2102761).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон  Попов] (https://htmlacademy.ru/profile/joker).
 
 ---
 
